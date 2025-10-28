@@ -1,0 +1,1 @@
+These are my own assets. Feel free to use. You can use under CC-BY 4.0 or [SCP-Wiki CC-BY-SA 3.0](https://scp-wiki.wikidot.com/licensing-guide), which depends, from which folder you took assets.

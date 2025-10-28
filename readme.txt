@@ -1,1 +1,0 @@
-These are my own assets. Feel free to use. You can use under CC-BY or CC-BY-SA, which depends, from which folder you took assets.
