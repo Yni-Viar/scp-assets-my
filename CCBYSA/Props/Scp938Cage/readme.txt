@@ -1,1 +1,7 @@
 I know, that is not very good asset, but it was intended to use this asset in the dark (since SCP-938 is an electrical monster and no electrical lights are shining here...)
+
+Made by Yni in 2025.
+License - CC-BY-SA 3.0 (SCP-Wiki interpretation).
+
+
+*SCP-Wiki interpretation says, that for gamedev, these assets can be combined with GPLv3 code, while original one prohibits it.

@@ -1,2 +1,2 @@
-Made by Yni.
-License: CC-BY 4.0
+Made by Yni in 2024.
+License - CC-BY 4.0.

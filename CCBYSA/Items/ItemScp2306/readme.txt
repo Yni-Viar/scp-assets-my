@@ -1,3 +1,5 @@
-Old thing from early 2024.
+Made by Yni in 2024 (added auto smooth modifier in 2026).
+License - CC-BY-SA 3.0 (SCP-Wiki interpretation).
 
-I did not remaster the model since, I only applied auto-smooth modifier in 2026.
+
+*SCP-Wiki interpretation says, that for gamedev, these assets can be combined with GPLv3 code, while original one prohibits it.
