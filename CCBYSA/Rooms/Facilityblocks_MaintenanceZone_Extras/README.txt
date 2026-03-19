@@ -1,3 +1,6 @@
+Q: Why R3 is missing?
+A: Because of too similarity with SCP:SL pre-14.0 HCZ rooms, which may be not opensource.
+
 Made by Yni in 2025-2026.
 License - CC-BY-SA 3.0 (SCP-Wiki interpretation).
 

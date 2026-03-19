@@ -1,4 +1,4 @@
-Made by Yni in 2023-2025.
+Made by Yni in 2023-2026.
 License - CC-BY-SA 3.0 (SCP-Wiki interpretation).
 
 

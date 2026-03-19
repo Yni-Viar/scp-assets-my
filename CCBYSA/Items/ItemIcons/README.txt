@@ -1,3 +1,5 @@
+Generic inventory icons, not tied to specific SCP game.
+
 Made by Yni in 2020-2026.
 License - CC-BY-SA 3.0 (SCP-Wiki interpretation).
 
