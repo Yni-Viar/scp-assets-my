@@ -1,4 +1,6 @@
-Made by Yni in 2023-2024.
+You can add custom screens by using Scp1223_screen_mask.png file (white zone)!
+
+Made by Yni in 2026.
 License - CC-BY-SA 3.0 (SCP-Wiki interpretation).
 
 
