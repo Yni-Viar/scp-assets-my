@@ -1,3 +1,5 @@
+I recommend to use shader for glass part.
+
 Made by Yni in 2026.
 License - CC-BY-SA 3.0 (SCP-Wiki interpretation).
 
